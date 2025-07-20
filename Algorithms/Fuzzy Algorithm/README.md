@@ -38,4 +38,4 @@ The system implements 9 rules covering all combinations of input membership func
    ```bash
    git clone https://github.com/yourusername/fuzzy-grade-predictor.git
    cd fuzzy-grade-predictor
-   
+  

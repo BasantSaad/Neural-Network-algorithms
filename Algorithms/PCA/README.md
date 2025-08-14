@@ -27,7 +27,4 @@ The app produces:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pca-streamlit-app.git
-cd pca-streamlit-app
-git clone https://github.com/yourusername/pca-streamlit-app.git
-cd pca-streamlit-app
+git clone Algorithms/PCA/st_PCA.py

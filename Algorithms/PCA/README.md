@@ -27,4 +27,4 @@ The app produces:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone Algorithms/PCA/st_PCA.py
+git clone https://github.com/BasantSaad/Neural-Network-algorithms/blob/4b1a837424f06a15d71ec66397306b36038c6cab/Algorithms/PCA/st_PCA.py

@@ -27,11 +27,11 @@ col1, space1, col2 = st.columns([1, 0.2, 1])
 
 with col1:
     if st.button("Go to PCA Algorithm 🩵", key="pca_button"):
-        st.switch_page("Pages/st_PCA.py")
+        st.switch_page("pages/st_PCA.py")
 
 with col2:
     if st.button("Go to SOM Algorithm ♥️", key="som_button"):
-        st.switch_page("Pages/SOM_IS.py")
+        st.switch_page("pages/SOM_IS.py")
 
 # Add spacing between rows
 st.write("")
@@ -42,11 +42,11 @@ col3, space2, col4 = st.columns([1, 0.2, 1])
 
 with col3:
     if st.button("RBF Algorithm 💖", key="backprop_button"):
-        st.switch_page("Pages/RPF.py")
+        st.switch_page("pages/RPF.py")
 
 with col4:
     if st.button("Go to ART1 Algorithm 🩶", key="cnn_button"):
-        st.switch_page("Padges/ART22.py")
+        st.switch_page("padges/ART22.py")
 
 # Add spacing between rows
 st.write("")
@@ -57,11 +57,11 @@ col5, col5_space2, col6 = st.columns([1, 0.2, 1])
 
 with col5:
     if st.button("Go to Genetic Algorithm 🌸", key="rnn_button"):
-        st.switch_page("Pages/genetic_algorithm_lab.py")
+        st.switch_page("pages/genetic_algorithm_lab.py")
 
 with col6:
     if st.button("Go to Fuzzy Algorithm 👩‍🎓✨", key="fuzzy_button"):
-        st.switch_page("Pages/Fuzzy_python.py")
+        st.switch_page("pages/Fuzzy_python.py")
 
 # Custom styling for better appearance with larger buttons and more spacing
 st.markdown("""
@@ -95,6 +95,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 
 

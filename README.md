@@ -6,12 +6,12 @@ The main front file serves as a dashboard that lets you navigate between differe
 ---
 
 ## ✨ Included Algorithms
-- 🩵 **PCA Algorithm** (`st_PCA.py`)  
-- ♥️ **Self-Organizing Map (SOM)** (`SOM_IS.py`)  
-- 💖 **Radial Basis Function (RBF)** (`RPF.py`)  
-- 🩶 **ART1 Algorithm** (`ART22.py`)  
-- 🌸 **Genetic Algorithm** (`genetic_algorithm_lab.py`)  
-- 👩‍🎓✨ **Fuzzy Algorithm** (`Fuzzy_python.py`)  
+- 🩵 **PCA Algorithm** (`1_PCA.py`)  
+- ♥️ **Self-Organizing Map (SOM)** (`2_SOM.py`)  
+- 💖 **Radial Basis Function (RBF)** (`3_RPF.py`)  
+- 🩶 **ART1 Algorithm** (`4_ART.py`)  
+- 🌸 **Genetic Algorithm** (`5_Genetic.py`)  
+- 👩‍🎓✨ **Fuzzy Algorithm** (`6-Fuzzy.py`)  
 
 ---
 

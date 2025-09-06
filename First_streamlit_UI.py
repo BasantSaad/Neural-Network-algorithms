@@ -27,7 +27,7 @@ col1, space1, col2 = st.columns([1, 0.2, 1])
 
 with col1:
     if st.button("Go to PCA Algorithm 🩵", key="pca_button"):
-        st.switch_page("pages/RBF.py")
+        st.switch_page("pages/st_PCA.py")
 
 with col2:
     if st.button("Go to SOM Algorithm ♥️", key="som_button"):
@@ -46,7 +46,7 @@ with col3:
 
 with col4:
     if st.button("Go to ART1 Algorithm 🩶", key="cnn_button"):
-        st.switch_page("padges/ART22.py")
+        st.switch_page("pages/ART22.py")
 
 # Add spacing between rows
 st.write("")
@@ -95,6 +95,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 
 

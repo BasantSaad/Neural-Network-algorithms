@@ -46,7 +46,7 @@ with col3:
 
 with col4:
     if st.button("Go to ART1 Algorithm 🩶", key="cnn_button"):
-        st.switch_page("https://github.com/BasantSaad/Neural-Network-algorithms/blob/971a76aeecf13365d28809b951cab5e87e8c7eb9/Algorithms/ART1_from_scratch/ART22.py")
+        st.switch_page("Algorithms/ART1_from_scratch/ART22.py")
 
 # Add spacing between rows
 st.write("")
@@ -57,11 +57,11 @@ col5, col5_space2, col6 = st.columns([1, 0.2, 1])
 
 with col5:
     if st.button("Go to Genetic Algorithm 🌸", key="rnn_button"):
-        st.switch_page("https://github.com/BasantSaad/Neural-Network-algorithms/blob/971a76aeecf13365d28809b951cab5e87e8c7eb9/Algorithms/Genetic%20Algorithm/genetic_algorithm_lab.py")
+        st.switch_page("Algorithms/Genetic Algorithm/genetic_algorithm_lab.py")
 
 with col6:
     if st.button("Go to Fuzzy Algorithm 👩‍🎓✨", key="fuzzy_button"):
-        st.switch_page("https://github.com/BasantSaad/Neural-Network-algorithms/blob/971a76aeecf13365d28809b951cab5e87e8c7eb9/Algorithms/Fuzzy%20Algorithm/Fuzzy_python.py")
+        st.switch_page("Algorithms/Fuzzy Algorithm/Fuzzy_python.py")
 
 # Custom styling for better appearance with larger buttons and more spacing
 st.markdown("""
@@ -95,4 +95,5 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
 

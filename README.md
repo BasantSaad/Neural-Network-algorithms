@@ -19,5 +19,5 @@ The main front file serves as a dashboard that lets you navigate between differe
 
 1. Clone this repository or download the files:
    ```bash
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/BasantSaad/Neural-Network-algorithms/blob/518ca11a1fcab5f920d9ca44c921f05e6de253fe/First_streamlit_UI.py)
    cd <your-repo-folder>

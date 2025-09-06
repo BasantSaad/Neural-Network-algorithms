@@ -27,7 +27,7 @@ col1, space1, col2 = st.columns([1, 0.2, 1])
 
 with col1:
     if st.button("Go to PCA Algorithm 🩵", key="pca_button"):
-        st.switch_page("pages/st_PCA.py")
+        st.switch_page("pages/RBF.py")
 
 with col2:
     if st.button("Go to SOM Algorithm ♥️", key="som_button"):
@@ -95,6 +95,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
 
 
 
